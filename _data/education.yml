@@ -1,6 +1,8 @@
 # Degree
-- degree: Computer Science 
-  uni: Dr. Ng
+
+- degree: Computer Science   
+  uni: Udacity
   year: May 18, 2020
-  awards: Most Dedicated Student per Optional Activities Completed
-  summary: Spent my time working with DR. NG 
+  # awards:
+  summary: I spent my semester having a great time 
+
